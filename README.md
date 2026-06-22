@@ -1,3 +1,4 @@
+![Uploading sketchflow_github_analysis.png…]()
 🎬 SketchFlow AI
 AI-Powered Visual Explanation Engine
 Transform raw talking-head videos into visually engaging, neuroscience-optimized content with AI-generated overlays that sync to your speech and gestures — automatically.
